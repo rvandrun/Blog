@@ -1,0 +1,4 @@
+[submodule "rvdwebsite/public"]
+	path = rvdwebsite/public
+	url = https://github.com/rvandrun/rachelvandrunen.github.io.git
+	branch = main
